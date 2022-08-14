@@ -1,7 +1,7 @@
-### Hi there 👋
+### Привет 👋
 
 <!--
-**Kobzetsu/Kobzetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AgroYan1999/AgroYan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
