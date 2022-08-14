@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Привет, я <a href="https://hh.ru/applicant/resumes/view?resume=3e4f61b3ff0b2a6bb70039ed1f727645665948" target="_blank">Ян</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Математик, выпускник Высшей Школы Экономики 🇷🇺</h3>
