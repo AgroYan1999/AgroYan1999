@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Привет, меня зовут <a href="https://hh.ru/applicant/resumes/view?resume=3e4f61b3ff0b2a6bb70039ed1f727645665948" target="_blank">Ян</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Математик, выпускник Высшей Школы Экономики 🇷🇺</h3>
+<h3 align="center">Математик, выпускник Высшей Школы Экономики </h3>
+
+<h3 align="center"> Здесь я выкладываю свои небольшие проекты по машинному обучению и аналитике</h3>
